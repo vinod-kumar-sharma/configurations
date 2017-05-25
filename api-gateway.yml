@@ -5,7 +5,7 @@ server:
 # The OAuth2 server definition that would be used to send the authorization requests to
 authserver:
     hostname: localhost
-    port: 8899
+    port: 8890
     contextPath: userauth
 
 # Define the routes which determine what URL are serviced by what applications.

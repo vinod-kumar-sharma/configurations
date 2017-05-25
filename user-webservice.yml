@@ -9,7 +9,7 @@ eureka:
 # The OAuth2 server definition that would be used to send the authorization requests to
 authserver:
     hostname: localhost
-    port: 8899
+    port: 8890
     contextPath: userauth
 
 # Note that the "/user" endpoint needs to provide the principle of the logged in user (/me endpoint)
